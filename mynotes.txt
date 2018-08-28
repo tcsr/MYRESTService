@@ -3,3 +3,4 @@ Important Links:
 Biolerplate code for MEAN:
 
 https://github.com/kunalkapadia/express-mongoose-es6-rest-api/blob/develop/server/user/user.model.js
+https://www.npmjs.com/package/express-rest-es2017-boilerplate
