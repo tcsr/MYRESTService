@@ -1,0 +1,20 @@
+{
+  "/api/UserLocations": {
+    "GET": "userLocations.json"
+  },
+  "/api/Login": {
+    "POST": "login.json"
+  },
+  "/api/test1": {
+    "POST": "success.json"
+  },
+   "/api/test/:id": {
+    "GET": "test.json"
+  },
+  "/api/test/:id": {
+    "GET": "test.json"
+  },
+  "/api/ACP/GetACPCategory?CategoryID=2": {
+    "GET": "acpCategory2.json"
+  }
+}
